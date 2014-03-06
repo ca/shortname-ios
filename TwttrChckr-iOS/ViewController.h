@@ -18,5 +18,6 @@
 - (IBAction)github;
 - (IBAction)twitter;
 - (IBAction)instagram;
+- (IBAction)clear;
 
 @end

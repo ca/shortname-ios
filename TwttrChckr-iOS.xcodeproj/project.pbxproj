@@ -21,6 +21,9 @@
 		FA29FDC418BCCBCF0050F465 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA29FDA618BCCBCF0050F465 /* UIKit.framework */; };
 		FA29FDCC18BCCBCF0050F465 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FA29FDCA18BCCBCF0050F465 /* InfoPlist.strings */; };
 		FA29FDCE18BCCBCF0050F465 /* TwttrChckr_iOSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA29FDCD18BCCBCF0050F465 /* TwttrChckr_iOSTests.m */; };
+		FA29FDD818BE2D510050F465 /* twitter.png in Resources */ = {isa = PBXBuildFile; fileRef = FA29FDD718BE2D510050F465 /* twitter.png */; };
+		FA29FDDC18BE2E540050F465 /* instagram.png in Resources */ = {isa = PBXBuildFile; fileRef = FA29FDDB18BE2E540050F465 /* instagram.png */; };
+		FA29FDDE18BE2F3A0050F465 /* github.png in Resources */ = {isa = PBXBuildFile; fileRef = FA29FDDD18BE2F3A0050F465 /* github.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +56,9 @@
 		FA29FDC918BCCBCF0050F465 /* TwttrChckr-iOSTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TwttrChckr-iOSTests-Info.plist"; sourceTree = "<group>"; };
 		FA29FDCB18BCCBCF0050F465 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FA29FDCD18BCCBCF0050F465 /* TwttrChckr_iOSTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TwttrChckr_iOSTests.m; sourceTree = "<group>"; };
+		FA29FDD718BE2D510050F465 /* twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = twitter.png; sourceTree = "<group>"; };
+		FA29FDDB18BE2E540050F465 /* instagram.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instagram.png; sourceTree = "<group>"; };
+		FA29FDDD18BE2F3A0050F465 /* github.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = github.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +132,9 @@
 		FA29FDA918BCCBCF0050F465 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				FA29FDDD18BE2F3A0050F465 /* github.png */,
+				FA29FDDB18BE2E540050F465 /* instagram.png */,
+				FA29FDD718BE2D510050F465 /* twitter.png */,
 				FA29FDAA18BCCBCF0050F465 /* TwttrChckr-iOS-Info.plist */,
 				FA29FDAB18BCCBCF0050F465 /* InfoPlist.strings */,
 				FA29FDAE18BCCBCF0050F465 /* main.m */,
@@ -228,7 +237,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA29FDDE18BE2F3A0050F465 /* github.png in Resources */,
 				FA29FDBB18BCCBCF0050F465 /* Images.xcassets in Resources */,
+				FA29FDD818BE2D510050F465 /* twitter.png in Resources */,
+				FA29FDDC18BE2E540050F465 /* instagram.png in Resources */,
 				FA29FDAD18BCCBCF0050F465 /* InfoPlist.strings in Resources */,
 				FA29FDB618BCCBCF0050F465 /* Main.storyboard in Resources */,
 			);

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>31AEE2E6-6428-40B7-A783-3896C2F18C9B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TwttrChckr-iOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9297A782-B9CB-45EB-BD48-CF47F4444B8B</key>
+		<string>https://github.com/ca/TwttrChckr-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TwttrChckr-iOS.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9297A782-B9CB-45EB-BD48-CF47F4444B8B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ca/TwttrChckr-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9297A782-B9CB-45EB-BD48-CF47F4444B8B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9297A782-B9CB-45EB-BD48-CF47F4444B8B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TwttrChckr-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -81,31 +81,22 @@
     }
 }
 
-//- (void)connection:(NSURLConnection *)connection didReceiveData:(NSData *)response
-//{
-//    // This method is called when the server has determined that it
-//    // has enough information to create the NSURLResponse object.
-//    
-//    // It can be called multiple times, for example in the case of a
-//    // redirect, so each time we reset the data.
-//    
-//    // receivedData is an instance variable declared elsewhere.
-//    [receivedData setLength:0];
-//    NSLog(@"String sent from server %@",[[NSString alloc] initWithData:response encoding:NSUTF8StringEncoding]);
-//}
-
 - (void)getName
 {
-    usernameInput.text = @"";
     statusLabel.textColor = [UIColor greenColor];
     statusLabel.text = @"GET NAME!";
 }
 
 - (void)failName
 {
-    usernameInput.text = @"";
     statusLabel.textColor = [UIColor redColor];
     statusLabel.text = @"UNAVAILABLE!";
+}
+
+- (IBAction)clear
+{
+    usernameInput.text = @"";
+    usernameLabel.text = @"Username:\nNetwork:";
 }
 
 @end
